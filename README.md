@@ -32,7 +32,7 @@ docker-compose up
 ## Screenshots
 
 ### Cars List
-![Cars List](cars_list.png)
+![Cars List](cars-list.png)
 
 
 ### Cars View
