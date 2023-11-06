@@ -33,15 +33,15 @@ docker-compose up
 
 ### Cars List
 ![Cars List](Cars_list.png)
-CarsMS By M.Touil
+
 
 ### Cars View
 ![Cars View](Cars_view.png)
-CarsMS By M.Touil
+
 
 ### Cars Edit
 ![Cars Edit](Cars_edit.png)
-CarsMS By M.Touil
+
 
 ## Usage
 
@@ -49,4 +49,4 @@ Describe here how to use the application.
 
 ## Contributors
 
-- [Mehdi Touil](https://www.linkedin.com/in/mehditouil)
+- [Mohammed Elkasri](https://www.linkedin.com/in/mohammed-elkasri)
